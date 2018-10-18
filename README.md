@@ -38,7 +38,7 @@ structure, hierarchy, and meaning &mdash; the "marking-up" of content.
 Questions in the mind of an HTML author are:
 
 * Is it best to list these members' names with numbers, or bullets?
-* Does this menu belong in in the navigation in the header?
+* Does this menu belong in the navigation in the header?
 * Should this additional reference be an aside, or a separate section?
 
 These questions deal with structure, hierarchy, and meaning, which are
